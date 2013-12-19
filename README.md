@@ -1,2 +1,2 @@
-smooth-scroll-article
+Source Code from Smooth Scrolling Site Article
 =====================
